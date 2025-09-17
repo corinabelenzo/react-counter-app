@@ -1,6 +1,6 @@
 # React + Vite Counter App
 
-This is a simple Counter App built using React, TypeScript, and Vite. It demonstrates basic React state management and component structure, with a modern development setup powered by Vite.
+This is a simple Counter App built with React and TypeScript. It demonstrates basic React state management and component structure, with a modern development setup powered by Vite.
 
 ## Features
 - Increment and decrement counter functionality
@@ -12,14 +12,13 @@ This is a simple Counter App built using React, TypeScript, and Vite. It demonst
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v16 or newer recommended)
-- npm (comes with Node.js)
+- Node.js v22
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:corinabelenzo/react-counter-app.git
    cd react-counter-app
    ```
 2. Install dependencies:
@@ -44,6 +43,3 @@ Open your browser and visit [http://localhost:5173](http://localhost:5173) to vi
 - `public/` — Static assets
 - `vite.config.ts` — Vite configuration
 - `tsconfig.json` — TypeScript configuration
-
-## License
-MIT
